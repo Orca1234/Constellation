@@ -1,6 +1,6 @@
 ## Welcome to Constellation
 
-Want to life hack with real, usable psychology?  Constellation will let you do that!
+Want to life hack using real, usable psychology?  Constellation will let you do that!
 
 Constellation is an interactive website that promotes psychology by making practical psychology accessible to everyone.  The practical psyhcology we offer is can be used to boost your every-day well being (want to feel happier or read facial expressions?).  We offer practical psychology in different branches of psychology, ranging from social to physiological; this means you will get to use practical psychology from nearly every field of psychology.
 
@@ -17,31 +17,9 @@ The practical psychology articles we offer are written in easy to read prose pro
 
 
 ## Promoting Psychology for the Public Benefit
+```
+Constellation was founded to solve the issue of making psyhcology relevent and beneficial to the public, which was first raised by Professor George Miller in 1969.  Using Professor Roberta Klatzky's Carnegie Mellon University psychology elective course as guidance, we created Constellation to bring practical psychology to everyone.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 ## Disclaimer
 Constellation is not a replacement for professional psychological or psychiatric help.  Constellation does not seek to replace professional help.

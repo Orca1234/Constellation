@@ -1,4 +1,4 @@
-## Welcome to Constelaltion
+## Welcome to Constellation
 
 You can use the [editor on GitHub](https://github.com/Orca1234/Constellation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

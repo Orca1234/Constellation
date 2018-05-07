@@ -1,7 +1,5 @@
 ## Welcome to Constellation
 
-Want to life hack using real, usable psychology?  Constellation will let you do that!
-
 Constellation is an interactive website that promotes psychology by making practical psychology accessible to everyone.  The practical psyhcology we offer can be used to boost your every-day well being (want to feel happier or read facial expressions?  We offer practical psychology on that!).  We offer practical psychology in different branches of psychology, ranging from social to physiological; this means you will get to use practical psychology from nearly every field of psychology.
 
 

@@ -9,7 +9,7 @@ Constellation is an interactive website that promotes psychology by making pract
 
 Constellation cares that you get understandable high quality, practical psychology all in one place.
 
-Constellation publishes only the highest quality practical psychology findings.  The findings we publish are systematically reviews and/or meta-analyszed, meaning that psychologists have tested them to the highest possible standards to verify they are true; articles based on single studies(which Constellation doesn't publish) will often give you psyhcology that still hasn't be proven completely, or can have little to no validity.  Constellation is also overseen by a board of professional psychologists, who help to ensure that the articles we publish are accurate.
+Constellation publishes only the highest quality practical psychology findings.  The findings we publish are systematically reviews and/or meta-analyzed, meaning that psychologists have tested them to the highest possible standards to verify they are true; articles based on single studies(which Constellation doesn't publish) will often give you psyhcology that still hasn't be proven completely, or can have little to no validity.  Constellation is also overseen by a board of professional psychologists, who help to ensure that the articles we publish are accurate.
 
 The practical psychology articles we offer are written in easy to read prose prose that conveys that neverthless conveys any complexity needed to use a practical psychology finding.
 

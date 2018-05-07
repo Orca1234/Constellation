@@ -16,10 +16,10 @@ The practical psychology articles we offer are written in easy to read prose pro
 
 
 ## Promoting Psychology for the Public Benefit
-```
+
 Constellation was founded to solve the issue of making psyhcology relevent and beneficial to the public, which was first raised by Professor George Miller in 1969.  Using Professor Roberta Klatzky's Carnegie Mellon University psychology elective course as guidance, we created Constellation to bring practical psychology to everyone.
 
-```
+
 ## Disclaimer
 Constellation is not a replacement for professional psychological or psychiatric help.  Constellation does not seek to replace professional help.
 

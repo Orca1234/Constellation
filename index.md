@@ -21,14 +21,15 @@ We included an interactive map of psychology not just because it's a novelty, bu
 
 ## Constellation's Layout
 
-You can toggle between our website's two layouts: the first is our regular layout (think layout of the Atlantic Monthly), and the second is interactive map of psychology that contains our site's practical psychology articles.  If you use our interactive map of psychology, you'll initially see our main map.  Our main map shows how branches of psychology are related.  Circles(nodes) represesnt a branch, and and lines(links) show how related the branches are.  Hover over a circle to see what branch of psychology it represents.  So the more lines there are between branches, the more related the branches are!
+You can toggle between our website's two layouts: the first is our regular layout (think layout of the Atlantic Monthly), and the second is interactive map of psychology that contains our site's practical psychology articles.  If you use our interactive map of psychology(https://onodo.org/visualizations/35102), you'll initially see our main map.  Our main map shows how branches of psychology are related.  Circles(nodes) represesnt a branch, and and lines(links) show how related the branches are.  Hover over a circle to see what branch of psychology it represents.  So the more lines there are between branches, the more related the branches are!
 
-If you click on a circle of the main map (like physiological psychology), you'll see another map showing the circle's topics.  Clicking on a circle on this nested map will let you read about a practical psychology finding!
+If you click on a circle of the main map (like physiological psychology), you'll see another map (https://onodo.org/visualizations/35111) showing the circle's topics.  Clicking on a circle on this nested map will let you read about a practical psychology finding!
 
 
 ## Disclaimer
 Constellation is not a replacement for professional psychological or psychiatric help.  
 
+**THIS IS A STUDENT PROJECT AND NOT AN ACTUAL SITE**
 
 ### Support or Contact
 
